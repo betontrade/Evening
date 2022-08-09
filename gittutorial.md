@@ -28,6 +28,8 @@
 * Команда git config --global user.name "Jhon" добавляет имя редактора кода
 * Команда git config --global user.email "ttt@gmail.com" добавляет в git е-мэйл редактора кода
 
+* Команда git branch показывает на какой ветке мы сейчас находимся
+
 
 ## 2 семинар
 
